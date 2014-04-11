@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Driver", "Driver.vcxproj", "{EE8AEE65-453E-44C7-8E66-A92BEF8EFC07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE8AEE65-453E-44C7-8E66-A92BEF8EFC07}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE8AEE65-453E-44C7-8E66-A92BEF8EFC07}.Debug|Win32.Build.0 = Debug|Win32
+		{EE8AEE65-453E-44C7-8E66-A92BEF8EFC07}.Release|Win32.ActiveCfg = Release|Win32
+		{EE8AEE65-453E-44C7-8E66-A92BEF8EFC07}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
