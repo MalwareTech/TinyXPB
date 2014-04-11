@@ -6,10 +6,10 @@ A Virtual Machine or Bochs running XP SP3 (XP SP0 will not work, other versions 
 
 
 USAGE:  
-1. run build.bat
-2. copy floppy.img to wherever you wish to use it
-4. set virtual machine / bochs to boot from floppy.img
-6. Boot!
+1. run build.bat  
+2. copy floppy.img to wherever you wish to use it  
+4. set virtual machine / bochs to boot from floppy.img  
+6. Boot!  
 
 
 EXECUTABLES:  
