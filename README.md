@@ -16,5 +16,5 @@ EXECUTABLES:
 Tools\MakeImage\imagefs.exe - Commandline floppy image manipulator  
 Tools\FASM\FASM.EXE - Flat Assembler command line tool  
 __________________________________________________________
-Written by MalwareTech, Contact: requests@malwaretech.com
+Written by MalwareTech, Contact: admin@malwaretech.com
 __________________________________________________________
